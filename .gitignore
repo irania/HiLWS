@@ -1,0 +1,9 @@
+libs/
+*.csv
+*.mp4
+*.jpg
+*.pyc
+*.html
+*.log
+*.egg-info
+*.bat

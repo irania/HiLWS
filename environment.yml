@@ -1,0 +1,20 @@
+name: booth_reports
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.5
+  - pandas
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+    - loguru
+    - opencv-python
+    - pygwalker
+    - mediapipe
+    - pycatch22
+    - joblib
+    - scikit-learn
+    - torch
+    - deepface
+    - tf-keras
