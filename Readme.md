@@ -1,7 +1,3 @@
-Here's a professional and structured `README.md` template you can use for your GitHub code repository based on the context of an ICML 2025 paper (e.g., a submission like *HiLWS*):
-
----
-
 # HiLWS: Human-in-the-Loop Weak Supervision for Remote Neurological Video Assessment
 
 This repository contains the official implementation of **HiLWS**, a cascaded human-in-the-loop weak supervision framework for curating and annotating hand motor task videos from clinical and home settings. The method addresses label ambiguity and data quality heterogeneity in remote assessments of motor symptoms such as Parkinson’s Disease.
